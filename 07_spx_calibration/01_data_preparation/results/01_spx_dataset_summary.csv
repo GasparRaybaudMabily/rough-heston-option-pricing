@@ -1,0 +1,19 @@
+﻿Indicator,Value
+Total number of rows,9677
+Number of expiration dates,46
+First expiration date,2022-09-13
+Last expiration date,2027-12-17
+Number of distinct strikes,514
+Minimum strike,100
+Maximum strike,12000
+Number of SPX rows,3311
+Number of SPXW rows,6366
+Number of rows without identified Root,0
+Number of Call contracts provided,9677
+Number of Put contracts provided,9677
+Valid Call Bid/Ask quotes,8651
+Valid Put Bid/Ask quotes,9198
+Positive Call Open Interest,6786
+Positive Put Open Interest,8223
+Call IV provided,9677
+Put IV provided,9677
